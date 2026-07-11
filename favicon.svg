@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
-  <!-- Outer orbit ring -->
-  <circle cx="50" cy="50" r="40" stroke="#0ea5e9" stroke-width="6" stroke-dasharray="8 6" opacity="0.5" />
-  <!-- Diagonal orbits -->
-  <ellipse cx="50" cy="50" rx="43" ry="13" stroke="#0ea5e9" stroke-width="6" transform="rotate(-30 50 50)" />
-  <ellipse cx="50" cy="50" rx="43" ry="13" stroke="#0ea5e9" stroke-width="6" transform="rotate(30 50 50)" />
-  <!-- Center glowing star representing Orion -->
-  <path d="M50 25L53.5 42.5L71 46L53.5 49.5L50 67L46.5 49.5L29 46L46.5 42.5Z" fill="#0ea5e9" />
-</svg>
